@@ -1,6 +1,9 @@
 [![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rahul Prajapati</h1>
+<p>
+  I live in Delhi. I come from Electronics Background, but I have the keen interest towards growing technology in IT field. And I look my future in IT sector. My Schooling has been done from Mount Olivet School , Delhi. I have completed my bachelors degree from Guru Govind Singh Indraprastha University in 2021.
+ </p>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamroare&label=Profile%20views&color=0e75b6&style=flat" alt="iamroare" /> </p>
@@ -16,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamroare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamroare" height="30" width="40" /></a>
-<a href="[https://linkedin.com/iamroare/](https://www.linkedin.com/in/iamroare/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamroare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iamroare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamroare" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamroarbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamroarbeast" height="30" width="40" /></a>
 <a href="https://instagram.com/iamroare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamroare" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/iamroare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamroare" height="30" width="40" /></a>
