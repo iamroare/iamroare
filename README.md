@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/iamroare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iamroare" height="30" width="40" /></a>
 <a href="https://codesandbox.com/iamroarbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iamroarbeast" height="30" width="40" /></a>
 <a href="https://instagram.com/iamroare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamroare" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iamroare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamroare" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYQ_Y-mdLCf_YtYUv4U4chw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamroare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
